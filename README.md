@@ -1,1 +1,1 @@
-$$f=\min \Sigma \|r\|^2$$
+$$f=\min \Sigma \|\|r\|\|^2$$
